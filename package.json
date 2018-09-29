@@ -5,6 +5,7 @@
     "version": "1.0.0",
     "publisher": "xr0master",
     "license": "MIT",
+    "icon": "view.png",
     "repository": {
         "url": "https://github.com/xr0master/vscode-intellij-darcula-theme",
         "type": "git"
