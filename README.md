@@ -4,7 +4,7 @@ This is plugin has been created for Visual Studio Code to append the Webstorm Da
 If you have any issues or want to change a color, let me know or make a pull request.
 
 ## Preview
-![Preview](https://github.com/xr0master/vscode-intellij-darcula-theme/blob/master/view.png)
+![Preview](https://raw.githubusercontent.com/xr0master/vscode-intellij-darcula-theme/master/view.png)
 
 ### Licens
 MIT
