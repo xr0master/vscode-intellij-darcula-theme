@@ -1,0 +1,27 @@
+{
+    "name": "webstorm-intellij-darcula-theme",
+    "displayName": "Webstorm IntelliJ Darcula Theme",
+    "description": "A Darcula Theme designed by IntelliJ",
+    "version": "1.0.0",
+    "publisher": "xr0master",
+    "license": "MIT",
+    "repository": {
+        "url": "https://github.com/xr0master/vscode-intellij-darcula-theme",
+        "type": "git"
+    },
+    "engines": {
+        "vscode": "^1.27.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Webstorm IntelliJ Darcula Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/darcula-color-theme.json"
+            }
+        ]
+    }
+}
