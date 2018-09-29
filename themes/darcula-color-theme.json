@@ -701,8 +701,11 @@
                 "punctuation.terminator.statement",
                 "punctuation.separator.comma",
                 "punctuation.separator.parameter",
+                "punctuation.separator.dictionary.key-value.json",
                 "punctuation.separator.dictionary.key-value.json.comments",
+                "punctuation.separator.dictionary.pair.json",
                 "punctuation.separator.dictionary.pair.json.comments",
+                "punctuation.separator.array.json",
                 "punctuation.separator.array.json.comments",
                 "constant.character.escape",
                 "keyword.control.anchor.regexp"
@@ -717,6 +720,7 @@
                 "constant.language",
                 "keyword.control",
                 "keyword.operator.expression",
+                "keyword.operator.new",
                 "support.type",
                 "storage.type",
                 "storage.modifier",
@@ -742,6 +746,7 @@
             "name": "Comment Documentation",
             "scope": [
                 "comment.block.documentation",
+                "entity.name.type.instance.jsdoc",
                 "variable.other.jsdoc"
             ],
             "settings": {
@@ -765,10 +770,13 @@
                 "variable.parameter",
                 "variable.other.object",
                 "variable.language.arguments",
+                "support.variable",
                 "support.variable.object",
                 "support.class",
                 "keyword",
                 "keyword.operator.logical",
+                "keyword.operator.optional",
+                "keyword.operator.type.annotation",
                 "entity.name.type",
                 "constant.language.import-export-all",
                 "storage.type.function.arrow",
