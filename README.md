@@ -3,5 +3,8 @@
 This is plugin has been created for Visual Studio Code to append the Webstorm Darcula color theme to IDE
 If you have any issues or want to change a color, let me know or make a pull request.
 
+## Preview
+![Preview](https://github.com/xr0master/vscode-intellij-darcula-theme/blob/master/view.png)
+
 ### Licens
 MIT
