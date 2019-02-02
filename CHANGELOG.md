@@ -4,7 +4,7 @@ All notable changes to the "webstorm-intellij-darcula-theme" extension will be d
 ## [1.0.0] - 2018-09-25
 - Initial release
 
-## [1.0.2] - 2019-02-02
+## [1.1.0] - 2019-02-02
 Fixes for the new version of VSC
 - Fixed CSS values style
 - Fixed JavaScript functions style
