@@ -1,2 +1,11 @@
-node_modules
+node_modules/
+coverage/
+dist/
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+.env/.env.dev
 *.vsix
+
