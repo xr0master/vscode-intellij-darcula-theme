@@ -12,3 +12,6 @@ Fixes for the new version of VSC
 - Fixed inherited class color
 - Fixed XML tags color for React
 - Added Markdown style
+
+## [1.1.1] - 2019-02-19
+- Fixed color for debbuger
