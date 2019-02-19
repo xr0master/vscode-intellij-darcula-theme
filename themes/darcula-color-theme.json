@@ -715,6 +715,7 @@
                 "keyword.control",
                 "keyword.operator.expression",
                 "keyword.operator.new",
+                "keyword.other.debugger",
                 "support.type",
                 "storage.type",
                 "storage.modifier",
